@@ -1,0 +1,13 @@
+{
+  "name": "number-lookup-api",
+  "version": "1.0.0",
+  "description": "BD Number Lookup API",
+  "main": "api/lookup.js",
+  "scripts": {
+    "start": "node api/lookup.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  }
+}
